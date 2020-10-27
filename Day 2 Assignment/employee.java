@@ -48,7 +48,7 @@ public class employee {
 
         employee emp1 = new employee();
 
-        emp1.name = "Vijay";
+        emp1.name = "Arghyadeep";
 
         emp1.age = 46;
 
@@ -58,7 +58,7 @@ public class employee {
 
         employee emp2 = new employee();
 
-        emp2.name = "Suresh";
+        emp2.name = "Himadri";
 
         emp2.age = 21;
 
